@@ -1,0 +1,15 @@
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\bin\Debug\net8.0\FirstethodsApp.exe
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\bin\Debug\net8.0\FirstethodsApp.deps.json
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\bin\Debug\net8.0\FirstethodsApp.runtimeconfig.json
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\bin\Debug\net8.0\FirstethodsApp.dll
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\bin\Debug\net8.0\FirstethodsApp.pdb
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.AssemblyInfo.cs
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.sourcelink.json
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.dll
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\refint\FirstethodsApp.dll
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.pdb
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\FirstethodsApp.genruntimeconfig.cache
+C:\Users\musta\source\repos\FirstethodsApp\FirstethodsApp\obj\Debug\net8.0\ref\FirstethodsApp.dll
